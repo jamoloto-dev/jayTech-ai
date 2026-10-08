@@ -1,0 +1,6 @@
+{
+  "name": "JayTech AI",
+  "description": "AI-powered content studio turning ideas, scripts, and brand assets into polished short-form videos for TikTok, Reels, and Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
